@@ -5,7 +5,7 @@ I am a Cloud Security Engineering fellow at The Knowledge House and a creative p
 
 * 🎯 **Target Roles:** Cloud Security Engineer | DevSecOps Engineer | Technical Product Developer
 * 📍 **Location:** Queens, New York
-* 💼 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/trey-petgrave-5b2a4518a) | [Resume](https://your-resume-link.com)
+* 💼 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/trey-petgrave-5b2a4518a) | [Resume](https://www.linkedin.com/in/trey-petgrave-5b2a4518a)
 
 ---
 
@@ -25,5 +25,5 @@ I am a Cloud Security Engineering fellow at The Knowledge House and a creative p
 * **[Foundations TEPP Post-Mortem](https://github.com/tpetgrave12-dotcom/Foundations_Lab_Final/blob/main/week-12/tepp_postmortem.md)**
   * *Phase 1 Technical Project & Analysis:* Comprehensive technical evaluation and post-mortem analysis documenting foundational systems engineering, workflow execution, and lessons learned from Phase 1 deliverables.
 
-* **[Foundations Perimeter Assessment](https://github.com/tpetgrave12-dotcom/Foundations_Lab_Final/blob/main/week-11/Perimeter_Assessment.md)**
-  * *Security Evaluation & Hardening:* Conducted a thorough perimeter security assessment analyzing network boundaries, access controls, and exposure risks within foundational technical environments.
+* **[Mastercard Hackathon Project: Pathway 1 — Access](https://github.com/tpetgrave12-dotcom)**
+  * *Inclusive Financial Access & Product Design:* Developed a collaborative innovation solution focused on removing barriers to essential services and expanding secure economic access during the Mastercard Hackathon.
