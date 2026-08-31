@@ -6,7 +6,7 @@ I am a Cloud Security Engineering fellow at The Knowledge House and a creative p
 * 🎯 **Target Roles:** Cloud Security Engineer | DevSecOps Engineer | Technical Product Developer
 * 📍 **Location:** Queens, New York
 * 💼 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com) | [Resume](https://your-resume-link.com)
- 
+
 ---
 
 ### 🛠️ Technical Skills
@@ -22,8 +22,8 @@ I am a Cloud Security Engineering fellow at The Knowledge House and a creative p
 * **[TKH-Final-Capstone](https://github.com/tpetgrave12-dotcom/TKH-Final-Capstone)**
   * *Cloud Security Engineering Capstone:* Provisioned an isolated AWS Virtual Private Cloud (VPC) with custom subnets, route tables, and locked-down security groups. Integrated an automated `tfsec` security scan via GitHub Actions CI/CD to enforce DevSecOps quality gates before deployment, complete with live EC2 instance verification and resource teardown compliance.
 
-* **[TLAB 8: The Fleet Command](https://github.com/tpetgrave12-dotcom/TLAB8-Fleet)**
-  * *Container Hardening & Serverless IAM Least Privilege:* Built and pushed a hardened `node:alpine` container with scan-on-push enabled to a private Amazon ECR repository. Deployed a Python AWS Lambda function ("Fleet-Auditor") and surgically rewrote its IAM execution role to enforce strict least-privilege security, restricting access exclusively to CloudWatch logging and ECR image description.
+* **[Foundations TEPP Post-Mortem](https://github.com/tpetgrave12-dotcom/Foundations_Lab_Final/blob/main/week-12/tepp_postmortem.md)**
+  * *Phase 1 Technical Project & Analysis:* Comprehensive technical evaluation and post-mortem analysis documenting foundational systems engineering, workflow execution, and lessons learned from Phase 1 deliverables.
 
-* **[TLAB 9: The Full Spectrum Breach](https://github.com/tpetgrave12-dotcom/TLAB9-Breach)**
-  * *Incident Response & Threat Containment:* Executed a live-fire security incident response exercise. Queried CloudTrail flight data via Amazon Athena using SQL to hunt down a compromised IAM user and rogue EC2 instance, performed network quarantine using lockdown security groups, and paralyzed compromised credentials with explicit IAM Deny policies.
+* **[Foundations Perimeter Assessment](https://github.com/tpetgrave12-dotcom/Foundations_Lab_Final/blob/main/week-11/Perimeter_Assessment.md)**
+  * *Security Evaluation & Hardening:* Conducted a thorough perimeter security assessment analyzing network boundaries, access controls, and exposure risks within foundational technical environments.
