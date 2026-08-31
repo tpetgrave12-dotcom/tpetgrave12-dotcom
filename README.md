@@ -6,7 +6,7 @@ I am a Cloud Security Engineering fellow at The Knowledge House and a creative p
 * 🎯 **Target Roles:** Cloud Security Engineer | DevSecOps Engineer | Technical Product Developer
 * 📍 **Location:** Queens, New York
 * 💼 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com) | [Resume](https://your-resume-link.com)
-
+ 
 ---
 
 ### 🛠️ Technical Skills
