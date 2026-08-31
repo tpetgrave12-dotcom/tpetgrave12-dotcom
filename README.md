@@ -10,8 +10,8 @@ I am a Cloud Security Engineering fellow at The Knowledge House and a creative p
 ---
 
 ### 🛠️ Technical Skills
-* **Cloud & Infrastructure:** AWS (VPC, EC2, IAM, Route Tables, Internet Gateways), Terraform
-* **Security & DevSecOps:** Static Application Security Testing (SAST), `tfsec`, GitHub Actions CI/CD pipelines, secure networking, access control
+* **Cloud & Infrastructure:** AWS (VPC, EC2, IAM, Route Tables, Internet Gateways, ECR, Lambda), Terraform
+* **Security & DevSecOps:** Static Application Security Testing (SAST), `tfsec`, GitHub Actions CI/CD pipelines, container hardening, IAM least-privilege policies
 * **Systems & Scripting:** Linux, Bash, Git, GitHub, Python, macOS, UTM Virtual Machines
 * **Post-Production & Media Tech:** DaVinci Resolve, Adobe Premiere Pro, Avid Media Composer, Final Cut Pro
 
@@ -22,8 +22,8 @@ I am a Cloud Security Engineering fellow at The Knowledge House and a creative p
 * **[TKH-Final-Capstone](https://github.com/tpetgrave12-dotcom/TKH-Final-Capstone)**
   * *Cloud Security Engineering Capstone:* Provisioned an isolated AWS Virtual Private Cloud (VPC) with custom subnets, route tables, and locked-down security groups. Integrated an automated `tfsec` security scan via GitHub Actions CI/CD to enforce DevSecOps quality gates before deployment, complete with live EC2 instance verification and resource teardown compliance.
 
-* **[NetWorth App Concept](https://github.com/tpetgrave12-dotcom)**
-  * *Mobile Networking & Cloud Architecture:* Designed the technical architecture, AWS cloud stack, and developer specifications for a mobile professional networking platform targeted at creative industries.
+* **[TLAB 8: The Fleet Command](https://github.com/tpetgrave12-dotcom/TLAB8-Fleet)**
+  * *Container Hardening & Serverless IAM Least Privilege:* Built and pushed a hardened `node:alpine` container with scan-on-push enabled to a private Amazon ECR repository. Deployed a Python AWS Lambda function ("Fleet-Auditor") and surgically rewrote its IAM execution role to enforce strict least-privilege security, restricting access exclusively to CloudWatch logging and ECR image description.
 
-* **[Who's at the Deli? Platform](https://github.com/tpetgrave12-dotcom)**
-  * *Creative Production & Media Platform:* Founded and executive-produced an independent media and music discovery platform documenting local creative talent in New York.
+* **[TLAB 9: The Full Spectrum Breach](https://github.com/tpetgrave12-dotcom/TLAB9-Breach)**
+  * *Incident Response & Threat Containment:* Executed a live-fire security incident response exercise. Queried CloudTrail flight data via Amazon Athena using SQL to hunt down a compromised IAM user and rogue EC2 instance, performed network quarantine using lockdown security groups, and paralyzed compromised credentials with explicit IAM Deny policies.
